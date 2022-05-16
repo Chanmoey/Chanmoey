@@ -1,6 +1,6 @@
 ## <div align="center">Hi there 👋</div>
 
-### <div align="center">I'm Chanmoey, a lazy dog🐶. keep work out! keep coding!</div>  
+### <div align="center">I'm Chanmoey, a lazy dog🐶. keep work out! keep coding! I am SB!</div>  
 
 - 📕 I’m a student.  
   
