@@ -8,7 +8,7 @@
 
 |代码仓|简介|
 ---|---|
-[经典算法与数据结构Java版本](algorithm-and-data-structures-java)|用Java实现的算法与数据结构|
+[经典算法与数据结构Java版本](https://github.com/Chanmoey/algorithm-and-data-structures-java)|用Java实现的算法与数据结构|
 |[经典算法与数据结构Python版本](https://github.com/Chanmoey/Data-Structures-Python)|很早期的Demo了，那时刚接触编程|
 |[其他也和算法相关的](https://github.com/Chanmoey/moon-algorithm-package)|暂时中断中...|
 |[图论算法](https://github.com/Chanmoey/learning-graph)|经典的图论算法|
