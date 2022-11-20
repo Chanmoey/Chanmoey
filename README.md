@@ -1,66 +1,46 @@
-## <div align="center">Hi there 👋</div>
+# Hi~💻
 
-### <div align="center">I'm Chanmoey, a lazy dog🐶. keep work out! keep coding! I am SB!</div>  
+## Chanmoey
 
-- 📕 I’m a student.  
-  
-  
-- 🌱 I’m currently learning Java, C, Python, Spark, and other.......  
+本科机械，因为还算热爱编程，所以读了一个计算机的研究生。喜欢偏后端、大数据、算法、数学、偏底层一点的技术，不过前端的技术也学习了一点。持续学习中。
 
-<br/>  
+### 数据结构与算法
 
+|代码仓|简介|
+---|---|
+[经典算法与数据结构Java版本](algorithm-and-data-structures-java)|用Java实现的算法与数据结构|
+|[经典算法与数据结构Python版本](https://github.com/Chanmoey/Data-Structures-Python)|很早期的Demo了，那时刚接触编程|
+|[其他也和算法相关的](https://github.com/Chanmoey/moon-algorithm-package)|暂时中断中...|
+|[图论算法](https://github.com/Chanmoey/learning-graph)|经典的图论算法|
+|[FloodFill算法](https://github.com/Chanmoey/replace-image-background-color)|使用FloodFill算法替换图片背景色|
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-  
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
-</div>
-</td><td valign="top" width="33%">
+### 我读的书
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-</div>
-</td><td valign="top" width="33%">
+|代码仓|简介|
+---|---|
+[深度学习入门基于Python的理论与实现](https://github.com/Chanmoey/deep-learning-from-scratch)|深度学习入门书籍，已读完|
+|[深度学习进阶自然语言处理](https://github.com/Chanmoey/deep-learning-2-natural-language-processing)|自然语言处理，中途去做其他事情了，还没读完|
+|[跟闪电侠学Netty: Netty即使聊天实战与底层原理](https://github.com/Chanmoey/learn-netty-with-flash)|Netty入门与源头码分析书籍，已读完|
 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>
-</td></tr></table>  
-<br/> 
+### 算法题目
 
-## <br/> Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chanmoey&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-<br/>  
+|代码仓|简介|
+---|---|
+|[LeetCode](https://github.com/Chanmoey/play-leetcode-note)|LeetCode题解，坚持完成每日一题|
+|[蓝桥杯](https://github.com/Chanmoey/lanqiaocup)|做了几道题|
 
-<!--
-**Chanmoey/Chanmoey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CS基础
 
-Here are some ideas to get you started:
+|代码仓|简介|
+|---|---|
+|[学习编译原理](https://github.com/Chanmoey/moon)|用Java实现一个编译器|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 演化算法（进化算法）
+
+|代码仓|简介|
+|---|---|
+|[进化算法常用的测试函数](https://github.com/Chanmoey/optimization-test-functions)|单目标测试函数|
+
+### 其他实践项目
+
+待补充
