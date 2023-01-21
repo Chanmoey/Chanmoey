@@ -45,4 +45,5 @@
 
 |代码仓|简介|
 |---|---|
-|[Exchange交易撮合平台前端Vue项目](https://github.com/Chanmoey/exchange-vue)[Exchange交易撮合平台后端SpringBoot项目](https://github.com/Chanmoey/exchange)|股票交易撮合项目，包括前端Vue、SpringBoot柜台、网关、排队机、撮合系统等|
+|[Exchange交易撮合平台前端Vue项目](https://github.com/Chanmoey/exchange-vue)  
+[Exchange交易撮合平台后端SpringBoot项目](https://github.com/Chanmoey/exchange)|股票交易撮合项目，包括前端Vue、SpringBoot柜台、网关、排队机、撮合系统等|
