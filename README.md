@@ -21,6 +21,7 @@
 [深度学习入门基于Python的理论与实现](https://github.com/Chanmoey/deep-learning-from-scratch)|深度学习入门书籍，已读完|
 |[深度学习进阶自然语言处理](https://github.com/Chanmoey/deep-learning-2-natural-language-processing)|自然语言处理，中途去做其他事情了，还没读完|
 |[跟闪电侠学Netty: Netty即使聊天实战与底层原理](https://github.com/Chanmoey/learn-netty-with-flash)|Netty入门与源头码分析书籍，已读完|
+|[算法4](https://github.com/Chanmoey/algorithms-fourth-edition)|经典的算法领域的书籍，在读|
 
 ### 算法题目
 
@@ -48,6 +49,7 @@
 |[Exchange交易撮合平台前端Vue项目](https://github.com/Chanmoey/exchange-vue)<br>[Exchange交易撮合平台后端SpringBoot项目](https://github.com/Chanmoey/exchange)|股票交易撮合项目，包括前端Vue、SpringBoot柜台、网关、排队机、撮合系统等|
 
 ### 轮子项目
+
 |代码仓|简介
 |---|---|
 |[TinyRedis](https://github.com/Chanmoey/tiny-redis)|使用Java写的基于内存的缓存数据库，使用Netty作为网络通信框架，未来考虑添加对分布式集群的支持|
